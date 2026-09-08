@@ -1,3 +1,1 @@
-<?php
-
-echo "Register Page";
+<h1>Register Page</h1>
